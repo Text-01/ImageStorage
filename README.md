@@ -1,3 +1,5 @@
+Github图床 by Crsce
+=
 # 说明：这是用于存放图片的仓库
 
 # WebUrl
@@ -6,4 +8,4 @@
 
 # 原项目：https://github.com/A2Data/autoPicCdn
 
-# by Crsce (๑•́ω•̀๑)
+# (๑•́ω•̀๑)
