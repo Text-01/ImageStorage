@@ -4,7 +4,7 @@ Github图床 by Crsce
 * 有事请联系006mark＃163.com（＃号换成艾特）
 -----
 # WebUrl：
-## ①http://crsce.wonzan.com
+## ①[旺赞主机](http://crsce.wonzan.com "悬停显示")http://crsce.wonzan.com
 ## ②http://mark.0fees.us （这个要翻墙才能访问）
 -----
 # 原项目：https://github.com/A2Data/autoPicCdn
