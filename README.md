@@ -4,10 +4,10 @@ Github图床 by Crsce
 * 有事请联系006mark＃163.com（＃号换成艾特）
 -----
 # WebUrl：
-## ①[旺赞主机](http://crsce.wonzan.com "悬停显示")http://crsce.wonzan.com
-## ②http://mark.0fees.us （这个要翻墙才能访问）
+## ①[http://crsce.wonzan.com](http://crsce.wonzan.com "旺赞主机")
+## ②[http://mark.0fees.us](http://mark.0fees.us "0fees.us") （这个要翻墙才能访问）
 -----
-# 原项目：https://github.com/A2Data/autoPicCdn
+# 原项目：[https://github.com/A2Data/autoPicCdn](https://github.com/A2Data/autoPicCdn "作者：A2Data")
 -----
 ![moyinglong-1](https://cdn.jsdelivr.net/gh/text-01/imagestorage/2020/08/23/ff3908.png "康什么康！没康过龙嘛？")
 -----
