@@ -1,7 +1,9 @@
 # 说明：这是用于存放图片的仓库
 
-# WebUrl：http://crsce.wonzan.com
+# WebUrl
+## ①http://crsce.wonzan.com
+## ②http://mark.0fees.us （这个要翻墙才能访问）
 
 # 原项目：https://github.com/A2Data/autoPicCdn
 
-# by Crsce
+# by Crsce (๑•́ω•̀๑)
