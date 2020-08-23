@@ -1,6 +1,6 @@
 Github图床 by Crsce
 ===
-# * 说明：这是用于存放图片的仓库
+* # 说明：这是用于存放图片的仓库
 ---
 # * WebUrl：
 ## ①http://crsce.wonzan.com
