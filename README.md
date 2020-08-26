@@ -5,7 +5,7 @@ Github图床 by Crsce
 -----
 # WebUrl：
 ## ①[http://crsce.wonzan.com/githubtuchuang](http://crsce.wonzan.com/githubtuchuang "旺赞主机")
-## ②[http://mark.0fees.us/githubtuchuang](http://mark.0fees.us "0fees.us/githubtuchuang") （这个要翻墙才能访问）
+## ②[http://mark.0fees.us/githubtuchuang](http://mark.0fees.us/githubtuchuang "0fees.us") （这个要翻墙才能访问）
 -----
 # 原项目：[https://github.com/A2Data/autoPicCdn](https://github.com/A2Data/autoPicCdn "作者：A2Data")
 -----
