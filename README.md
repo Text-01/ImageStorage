@@ -1,7 +1,7 @@
 Github图床 by Crsce
 =====
 # 说明：这是用于存放图片的仓库
-* 有事请联系x1878954334＃163.com（＃号换成艾特）
+* 有事请联系m18312070854＃163.com（＃号换成艾特）
 -----
 # WebUrl：
 ## ①[http://mark.wonzan.com/githubtuchuang](http://mark.wonzan.com/githubtuchuang "旺赞主机")
